@@ -1,0 +1,20 @@
+.counter-container {
+  margin: 40px auto;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.btn {
+  margin: 20px;
+  padding: 10px;
+  width: 80px;
+  background-color: rgb(218, 160, 54);
+  color: white;
+  font-size: 2rem;
+  border: 1px solid black;
+}
+
+.btn.fn {
+  width: 200px;
+}
